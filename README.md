@@ -5,25 +5,18 @@
 [![Open In Jupyter Notebook](https://img.shields.io/badge/Open%20in-Jupyter%20Notebook-blue)](https://mybinder.org/v2/gh/username/repo/master?filepath=notebook.ipynb)     [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Anaconda-Server Badge](https://anaconda.org/anaconda/python/badges/version.svg)](https://anaconda.org/anaconda/python)
 
 # Key Findings: Analysis of customer behaviors based on different time frames and weather conditions
-## Table of content
-#### Project Title
+## Table of Contents
 
-#### Installation
-
-#### How to Run
-
-#### Background
-
-#### Objectives
-
-#### Dataset
-#### Methods
-
-#### Tasks
-
-#### Contributing
-
-#### License
+- [Project Title](#project-title)
+- [Installation](#installation)
+- [How to Run](#how-to-run)
+- [Background](#background)
+- [Objectives](#objectives)
+- [Dataset](#dataset)
+- [Methods](#methods)
+- [Tasks](#tasks)
+- [Contributing](#contributing)
+- [License](#license)
 
 # Project Title: Bike Sharing Analysis
 Are you interested in bike sharing systems and their role in traffic, environmental, and health issues? Then you've come to the right place!
