@@ -84,5 +84,8 @@ This dataset is useful for two main tasks: regression and event/anomaly detectio
 
 ## Hypothesis testing on Registered rides
 ![Hypothesis testing on Registered rides](https://github.com/vonderwoman/Bike-Sharing-Analysis/blob/main/Output/Hypothesis_testing_on_registered_rides_png.png)
+
+## Number of rides per day
+![Number of rides per day](https://github.com/vonderwoman/Bike-Sharing-Analysis/blob/main/Output/number%20of%20rides%20per%20day.png)
 # Lincence
 MIT
