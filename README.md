@@ -87,5 +87,8 @@ This dataset is useful for two main tasks: regression and event/anomaly detectio
 
 ## Number of rides per day
 ![Number of rides per day](https://github.com/vonderwoman/Bike-Sharing-Analysis/blob/main/Output/number%20of%20rides%20per%20day.png)
+
+## Analyzing Seasonal Impact on Rides
+![Analyzing Seasonal Impact on Rides](https://github.com/vonderwoman/Bike-Sharing-Analysis/blob/main/Output/Aanalyzing%20Seasonal%20Impact%20on%20Rides.png)
 # Lincence
 MIT
