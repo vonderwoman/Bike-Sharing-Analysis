@@ -90,5 +90,7 @@ This dataset is useful for two main tasks: regression and event/anomaly detectio
 
 ## Analyzing Seasonal Impact on Rides
 ![Analyzing Seasonal Impact on Rides](https://github.com/vonderwoman/Bike-Sharing-Analysis/blob/main/Output/Aanalyzing%20Seasonal%20Impact%20on%20Rides.png)
+## Analysis of the distributions of the requests over separate hours and days of the week.
+![Analysis of the distributions of the requests over separate hours and days of the week.](https://github.com/vonderwoman/Bike-Sharing-Analysis/blob/main/Output/Analysis%20of%20the%20distributions%20of%20the%20requests%20over%20separate%20hours%20and%20days%20of%20the%20week..png)
 # Lincence
 MIT
