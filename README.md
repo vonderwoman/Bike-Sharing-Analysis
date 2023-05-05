@@ -71,7 +71,7 @@ This dataset is useful for two main tasks: regression and event/anomaly detectio
 # Tech Stack
 - Jupyter notebook
 - Python(refer to the app.py)
--Streamlit interface for deployment
+- Streamlit interface for deployment
 
 # Overview of the results
 
