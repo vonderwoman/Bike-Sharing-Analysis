@@ -68,5 +68,14 @@ UCI Machine Learning Repository
 # Associated Tasks
 This dataset is useful for two main tasks: regression and event/anomaly detection. In the regression task, the goal is to predict the hourly or daily bike rental count based on the environmental and seasonal settings. Meanwhile, in the event and anomaly detection task, the count of rented bikes can be correlated to certain events in the town which can be easily traced via search engines. For instance, a search for "2012-10-30 Washington D.C." in Google may return related results to Hurricane Sandy. By identifying such events, the dataset can also be used to validate anomaly or event detection algorithms.
 
+# Tech Stack
+- Jupyter notebook
+- Python(refer to the app.py)
+-Streamlit interface for deployment
+
+# Overview of the results
+
+
+
 # Lincence
 MIT
