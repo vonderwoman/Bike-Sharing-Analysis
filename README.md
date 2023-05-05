@@ -112,6 +112,12 @@ This dataset is useful for two main tasks: regression and event/anomaly detectio
 # App deployed on Streamlit
 ![app deployed](https://github.com/vonderwoman/Bike-Sharing-Analysis/blob/main/Output/deployment.JPG)
 
+🌟 Thank you for visiting my repository! If you find the content useful or interesting, I encourage you to give it a star ⭐️.
 
+By starring the repository, you show your support and appreciation for the work put into creating and maintaining it. It also helps to boost its visibility, making it more accessible to others in the community.
+
+Contributions are also highly welcome! Whether it's bug fixes, feature enhancements, or new ideas, your contributions can make a significant impact. Feel free to open issues, submit pull requests, or engage in discussions. Together, we can build an even better project!
+
+Your involvement and feedback are invaluable in shaping the future of this repository. Let's collaborate and make a difference in the world of technology! ✨
 # Lincence
 MIT
