@@ -76,6 +76,7 @@ This dataset is useful for two main tasks: regression and event/anomaly detectio
 # Overview of the results
 
 ![Distribution of Rides](https://github.com/vonderwoman/Bike-Sharing-Analysis/blob/main/Output/rides_distribution.png)
+![Analyzing seasonal impacts on rides](https://github.com/vonderwoman/Bike-Sharing-Analysis/blob/main/Output/Aanalyzing%20Seasonal%20Impact%20on%20Rides.png)
 
 # Lincence
 MIT
