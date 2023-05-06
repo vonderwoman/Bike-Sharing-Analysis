@@ -99,7 +99,7 @@ This dataset is useful for two main tasks: regression and event/anomaly detectio
 ## Analysis_the distribution of rides on a weekday
 ![Analysis_the distribution of rides on a weekday basis_png](https://github.com/vonderwoman/Bike-Sharing-Analysis/blob/main/Output/the%20distribution%20of%20rides%20on%20a%20weekday%20basis_png.png)
 
-# Lessons Learned fro Bike Sharing Analysis
+# Lesson Learned from Bike Sharing Analysis
 - Analyzed customers behaviors based on different time frames and weather conditions
 # Limitation 
 - The analysis focuses on a limited set of variables and does not account for other factors that may affect bike sharing usage, such as demographics, economic factors, or geographic factors.
