@@ -110,7 +110,7 @@ This dataset is useful for two main tasks: regression and event/anomaly detectio
 
 
 # App deployed on Streamlit
-![app deployed](https://github.com/vonderwoman/Bike-Sharing-Analysis/blob/main/Output/deployment.JPG)
+![app deployed](https://github.com/vonderwoman/Bike-Sharing-Analysis/blob/main/assets/gif1_streamlit.gif)
 
 🌟 Thank you for visiting my repository! If you find the content useful or interesting, I encourage you to give it a star ⭐️.
 
