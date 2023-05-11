@@ -1,6 +1,6 @@
 # Bike-Sharing-Analysis
 
-(![image](https://user-images.githubusercontent.com/104657679/235465643-08187fa2-909d-4957-af8e-30303a204dc0.png)
+![image](https://user-images.githubusercontent.com/104657679/235465643-08187fa2-909d-4957-af8e-30303a204dc0.png)
 
 [![Open In Jupyter Notebook](https://img.shields.io/badge/Open%20in-Jupyter%20Notebook-blue)](https://mybinder.org/v2/gh/username/repo/master?filepath=notebook.ipynb)     [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Anaconda-Server Badge](https://anaconda.org/anaconda/python/badges/version.svg)](https://anaconda.org/anaconda/python)
 
