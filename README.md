@@ -109,8 +109,7 @@ This dataset is useful for two main tasks: regression and event/anomaly detectio
 - To account for other potential factors that may affect bike sharing usage, additional variables could be included in the analysis, such as demographic data or geographic data.
 
 
-# App deployed on Streamlit
-![app deployed](https://github.com/vonderwoman/Bike-Sharing-Analysis/blob/main/assets/gif1_streamlit.gif)
+
 
 🌟 Thank you for visiting my repository! If you find the content useful or interesting, I encourage you to give it a star ⭐️.
 
