@@ -118,5 +118,5 @@ By starring the repository, you show your support and appreciation for the work 
 Contributions are also highly welcome! Whether it's bug fixes, feature enhancements, or new ideas, your contributions can make a significant impact. Feel free to open issues, submit pull requests, or engage in discussions. Together, we can build an even better project!
 
 Your involvement and feedback are invaluable in shaping the future of this repository. Let's collaborate and make a difference in the world of technology! ✨
-# Lincence
+# License
 MIT
